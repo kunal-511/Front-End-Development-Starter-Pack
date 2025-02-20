@@ -60,6 +60,6 @@ For a more comprehensive dive into web development, consider the following resou
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Frontend Masters](https://frontendmasters.com/)
 - [Sigma Web Development Course By Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w)
-- [Complete Web Dev using MERN stack By Love Babbar]https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD)
+- [Complete Web Dev using MERN stack By Love Babbar](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD)
 
 We hope these resources help you get started on your journey as a front-end developer. Happy coding!
